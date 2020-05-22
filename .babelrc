@@ -6,5 +6,6 @@
     "corejs": 3
     }
     ]
-    ]
+    ],
+    "plugins": ["@babel/transform-flow-strip-types", "@babel/transform-classes", "transform-class-properties"]
     }
